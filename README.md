@@ -109,10 +109,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ⭐ **“Building impactful web solutions with clean code and creative design.”**  
