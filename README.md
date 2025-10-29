@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Final-year CSE Student | Passionate About Building Scalable Web Apps</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sarbu12/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
